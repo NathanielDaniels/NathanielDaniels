@@ -28,7 +28,6 @@
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator | Photoshop
 
-<br/
 <!--[![Nathaniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanielDaniels)](https://github.com/NathanielDaniels)-->
 <h3> 🤝🏻 Connect with Me </h3>
 
