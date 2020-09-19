@@ -22,6 +22,7 @@
 - ✍️ &nbsp; Starting to figure out Blog Writing as a hobbie.
 
 <h3>🛠 Tech Stack</h3>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,10 +33,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code> -->
 
+
+
 - 💻 &nbsp;  HTML | CSS/SASS | JavaScript | ReactJS | Node.js
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator | Photoshop
+
 
 <!--[![Nathaniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanielDaniels)](https://github.com/NathanielDaniels)-->
 <h3> 🤝🏻 Connect with Me </h3>
