@@ -50,3 +50,4 @@
 <!-- <a href="https://www.instagram.com/nathanieldaniels_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nathanieldaniels_-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:nathanieldaniels.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-NathanielDaniels.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
