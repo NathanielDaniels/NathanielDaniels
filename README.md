@@ -17,9 +17,9 @@
 
 - 🤔 &nbsp; I enjoy exploring new technologies and developing Web solutions.
 - 🎓 &nbsp; Studying Advanced JavaScript and React.
-- 💼 &nbsp; Self-employed Web Developer but keeping my eyes open for full-time work.
+- 💼 &nbsp; Self-employed Web Developer looking for full-time employment.
 - 🌱 &nbsp; Learning more about Graphic Design, and Artificial Intelligence on the side.
-- ✍️ &nbsp; Starting to figure out Blog Writing as a hobbie.
+- ✍️ &nbsp; Looking into starting a Blog as a hobbie.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -38,8 +38,7 @@
 - 💻 &nbsp;  HTML | CSS/SASS | JavaScript | ReactJS | Node.js
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
-- 🖥 &nbsp; Illustrator | Photoshop
-
+- 🖥 &nbsp; Illustrator | Photoshop | Adobe XD | Figma 
 
 <!--[![Nathaniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanielDaniels)](https://github.com/NathanielDaniels)-->
 <h3> 🤝🏻 Connect with Me </h3>
