@@ -36,7 +36,7 @@
 
 
 - 💻 &nbsp;  HTML | CSS/SASS | JavaScript | ReactJS | Node.js
-- 🛢 &nbsp; MySQL | MongoDB
+<!-- - 🛢 &nbsp; MySQL | MongoDB -->
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Illustrator | Photoshop | Adobe XD | Figma 
 
