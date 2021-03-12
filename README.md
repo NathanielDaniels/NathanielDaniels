@@ -15,11 +15,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; I enjoy exploring new technologies and developing Web solutions.
-- 🎓 &nbsp; Studying Advanced JavaScript and React.
-- 💼 &nbsp; Self-employed Web Developer looking for full-time employment.
-- 🌱 &nbsp; Learning more about Graphic Design, and Artificial Intelligence on the side.
-- ✍️ &nbsp; Looking into starting a Blog as a hobbie.
+- 🤔 &nbsp; I enjoy exploring new technologies and developing web solutions.
+- 🎓 &nbsp; Studying advanced JavaScript and React.
+- 💼 &nbsp; Self-employed web developer looking for full-time employment.
+- 🌱 &nbsp; Learning more about Graphic Design, Data Structures and Algorithms.
+- ✍️ &nbsp; Helping aspiring web developers every day to better themselves.
 
 <h3>🛠 Tech Stack</h3>
 
