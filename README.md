@@ -37,8 +37,8 @@
 
 - 💻 &nbsp;  HTML | CSS/SASS | JavaScript | ReactJS | Node.js
 <!-- - 🛢 &nbsp; MySQL | MongoDB -->
-- 🔧 &nbsp; Git 
-- 🖥 &nbsp; Illustrator | Photoshop | Adobe XD | Figma 
+<!-- - 🔧 &nbsp; Git -->
+<!-- - 🖥 &nbsp; Illustrator | Photoshop | Adobe XD | Figma -->
 
 <!--[![Nathaniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanielDaniels)](https://github.com/NathanielDaniels)-->
 <h3> 🤝🏻 Connect with Me </h3>
