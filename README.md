@@ -17,7 +17,7 @@
 
 - 🤔 &nbsp; I enjoy exploring new technologies and developing web solutions.
 - 🎓 &nbsp; Studying advanced JavaScript and React.
-- 💼 &nbsp; Self-employed web developer looking for full-time employment.
+- 💼 &nbsp; Currently working as a remote software developer in the transportation industry.
 - 🌱 &nbsp; Learning more about Graphic Design, Data Structures and Algorithms.
 - ✍️ &nbsp; Helping aspiring web developers every day to better themselves.
 
